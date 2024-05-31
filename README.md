@@ -1,6 +1,5 @@
-# Project-1-🎉 Age Calculator 🎂 
+# 🎉 Age Calculator 🎂 
 
-## 🎉 Age Calculator 🎂 
 Welcome to the Age Calculator! This is the first project in my exciting 60 Days 60 Projects challenge. It's a simple yet powerful web application that helps you calculate your exact age in years, months, and days from your date of birth.
 
 # ✨ Features
@@ -21,3 +20,5 @@ Welcome to the Age Calculator! This is the first project in my exciting 60 Days 
 📅 Enter your date of birth in the input field.
 <br>
 🖱️ Click the "Calculate" button to see your age.
+
+Check out the live version [here](https://ashuuydv.github.io/Project-2-60-DAY-60-Challenges/).
